@@ -1,4 +1,4 @@
-PRODUCT DEFINITION ó KILLER PROJECT
+PRODUCT DEFINITION ‚Äî KILLER PROJECT
 Product Name (working)
 AI Product Requirements Generator
 
@@ -11,12 +11,12 @@ Primary user
 Context
 * Regularly run requirement-gathering meetings
 * Spend hours converting messy notes into structured backlog items
-* Work with Jira / ServiceNow / Linearñstyle systems
+* Work with Jira / ServiceNow / Linear‚Äìstyle systems
 
 2?? Core Problem (Very Specific)
 Turning unstructured inputs (meeting notes, emails, ideas) into high-quality, structured product requirements is slow, repetitive, and error-prone.
 Current pain
-* 2ñ6 hours per initiative
+* 2‚Äì6 hours per initiative
 * Inconsistent quality
 * Missing acceptance criteria
 * Poor technical clarity
@@ -35,7 +35,7 @@ o Priority level (Low / Medium / High)
 Optional Inputs (Phase 1 allowed)
 * Domain (e.g., finance, retail, logistics)
 * Technical constraints (cloud, language, security)
-? No file uploads in Week 1ñ3
+? No file uploads in Week 1‚Äì3
 ? No images
 ? No voice
 Keep it simple.
@@ -44,7 +44,7 @@ Keep it simple.
 Primary Outputs (MVP)
 For a single input, the system must generate:
 1. User Stories
-o Clear roleñactionñbenefit format
+o Clear role‚Äìaction‚Äìbenefit format
 o One primary story + optional sub-stories
 2. Acceptance Criteria
 o Bullet-pointed
@@ -86,23 +86,16 @@ Time & Cost Success
 * ? Reduces requirement drafting time by ?70%
 * ? Average generation cost ? $0.20 per run
 
-7?? Definition of ìMVP Successî
+7?? Definition of ‚ÄúMVP Success‚Äù
 The MVP is considered successful when:
 A PM can paste raw notes ? click generate ? receive a backlog draft they would realistically refine and send to engineering.
 No more. No less.
 
 8?? One-Sentence Value Proposition (Lock This)
-ìTurn messy product ideas into structured, engineering-ready requirements in minutes.î
+‚ÄúTurn messy product ideas into structured, engineering-ready requirements in minutes.‚Äù
 This sentence should appear in:
 * README
 * Demo video
 * Interview explanation
 
-? WHAT YOU SHOULD DO NEXT (1-HOUR TASK)
-For Week 1 ∑ Day 1, your exact action is:
-1. Create GitHub repo
-2. Create README.md
-3. Paste sections 1ñ8 above
-4. Commit with message:
-week-1-day-1-product-definition
 
